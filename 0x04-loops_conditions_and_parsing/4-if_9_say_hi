@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#prints "Best School" while integer is less than or equal to ten and prints "Hi" when integer is equal to nine
+#prints "Best School" while if loops and values
 i=1
 while [ $i -le 10 ]
 do
